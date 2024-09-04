@@ -1,0 +1,51 @@
+/* Contenedor principal */
+.shelf-container {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+  }
+  
+  /* Estante */
+  .shelf {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: #f5f5f5;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Espacios del estante */
+  .shelf-item {
+    width: 22%; /* 22% para que entren 4 ítems por fila con espacio entre ellos */
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .shelf-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilo responsive */
+  @media screen and (max-width: 1024px) {
+    .shelf-item {
+      width: 30%; /* 3 ítems por fila en pantallas medianas */
+    }
+  }
+  
+  @media screen and (max-width: 768px) {
+    .shelf-item {
+      width: 45%; /* 2 ítems por fila en pantallas pequeñas */
+    }
+  }
+  
+  @media screen and (max-width: 480px) {
+    .shelf-item {
+      width: 100%; /* 1 ítem por fila en pantallas muy pequeñas */
+    }
+  }
+  
