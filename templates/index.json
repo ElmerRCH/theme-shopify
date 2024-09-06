@@ -143,8 +143,8 @@
         "column_Hcdhyb": {
           "type": "column",
           "settings": {
-            "title": "ENVÍOS",
-            "text": "<p>Ofrecemos envíos garantizados con seguimiento para todas nuestras entregas.<\/p>",
+            "title": "Shipping",
+            "text": "<p>We offer guaranteed shipping with tracking for all our deliveries.<\/p>",
             "link_label": "",
             "link": ""
           }
