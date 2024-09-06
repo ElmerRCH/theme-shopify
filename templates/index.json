@@ -152,8 +152,8 @@
         "column_4PCWqA": {
           "type": "column",
           "settings": {
-            "title": "GARANTÍAS",
-            "text": "<p>Todos los pedidos están respaldados por nuestra política de garantía de reembolso y devolución de 30 días.<\/p>",
+            "title": "GUARANTEES",
+            "text": "<p>All orders are backed by our 30-day return and refund guarantee policy.<\/p>",
             "link_label": "",
             "link": ""
           }
