@@ -1,3 +1,15 @@
+<<<<<<< HEAD
+=======
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
+>>>>>>> origin/develop
 {
   "sections": {
     "slideshow": {
@@ -6,12 +18,20 @@
         "slide-0": {
           "type": "slide",
           "settings": {
+<<<<<<< HEAD
             "image": "shopify://shop_images/2_0a304af0-8377-46c8-a689-4110a35f340e.png",
+=======
+            "image": "shopify:\/\/shop_images\/2_0a304af0-8377-46c8-a689-4110a35f340e.png",
+>>>>>>> origin/develop
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
             "button_label": "",
+<<<<<<< HEAD
             "link": "shopify://collections/frontpage",
+=======
+            "link": "shopify:\/\/collections\/frontpage",
+>>>>>>> origin/develop
             "button_style_secondary": false,
             "box_align": "middle-left",
             "show_text_box": false,
@@ -22,7 +42,13 @@
           }
         }
       },
+<<<<<<< HEAD
       "block_order": ["slide-0"],
+=======
+      "block_order": [
+        "slide-0"
+      ],
+>>>>>>> origin/develop
       "settings": {
         "layout": "full_bleed",
         "slide_height": "adapt_image",
@@ -39,12 +65,28 @@
       "blocks": {
         "title_A7gHwQ": {
           "type": "title",
+<<<<<<< HEAD
           "settings": { "heading_size": "h1" }
         },
         "price_wk63ra": { "type": "price", "settings": {} },
         "quantity_selector_dCh4wK": {
           "type": "quantity_selector",
           "settings": {}
+=======
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_wk63ra": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "quantity_selector_dCh4wK": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+>>>>>>> origin/develop
         },
         "buy_buttons_Dwh399": {
           "type": "buy_buttons",
@@ -83,20 +125,43 @@
       "blocks": {
         "heading_h8w7id": {
           "type": "heading",
+<<<<<<< HEAD
           "settings": { "heading": "SOBRE NOSOTROS", "heading_size": "h1" }
+=======
+          "settings": {
+            "heading": "ABOUT US",
+            "heading_size": "h1"
+          }
+>>>>>>> origin/develop
         },
         "text_NF6pBm": {
           "type": "text",
           "settings": {
+<<<<<<< HEAD
             "text": "<p>¡Bienvenidos a nuestra tienda online!</p><p>Nos dedicamos a ofrecer productos de última generación a precios competitivos. Al notar que muchos competidores ofrecían precios excesivos, decidimos actuar.</p><p>Desde nuestras oficinas, importamos productos de calidad y creamos promociones exclusivas para nuestras redes. Siempre hemos destacado en el comercio online, y esta experiencia nos permite ofrecerte una experiencia de compra excepcional.</p>",
+=======
+            "text": "<p>Welcome to our online store! We are dedicated to offering cutting-edge products at competitive prices. Upon noticing that many competitors were offering excessive prices, we decided to act. From our offices, we import quality products and create exclusive promotions for our networks. We have always stood out in online commerce, and this experience allows us to offer you an exceptional shopping experience.<\/p>",
+>>>>>>> origin/develop
             "text_style": "body"
           }
         }
       },
+<<<<<<< HEAD
       "block_order": ["heading_h8w7id", "text_NF6pBm"],
       "custom_css": ["div {background: black;}"],
       "settings": {
         "image": "shopify://shop_images/3.png",
+=======
+      "block_order": [
+        "heading_h8w7id",
+        "text_NF6pBm"
+      ],
+      "custom_css": [
+        "div {background: black;}"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/3.png",
+>>>>>>> origin/develop
         "height": "adapt",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -117,8 +182,13 @@
         "column_Hcdhyb": {
           "type": "column",
           "settings": {
+<<<<<<< HEAD
             "title": "ENVÍOS",
             "text": "<p>Ofrecemos envíos garantizados con seguimiento para todas nuestras entregas.</p>",
+=======
+            "title": "Shipping",
+            "text": "<p>We offer guaranteed shipping with tracking for all our deliveries.<\/p>",
+>>>>>>> origin/develop
             "link_label": "",
             "link": ""
           }
@@ -126,8 +196,13 @@
         "column_4PCWqA": {
           "type": "column",
           "settings": {
+<<<<<<< HEAD
             "title": "GARANTÍAS",
             "text": "<p>Todos los pedidos están respaldados por nuestra política de garantía de reembolso y devolución de 30 días.</p>",
+=======
+            "title": "GUARANTEES",
+            "text": "<p>All orders are backed by our 30-day return and refund guarantee policy.<\/p>",
+>>>>>>> origin/develop
             "link_label": "",
             "link": ""
           }
@@ -135,14 +210,27 @@
         "column_itwya4": {
           "type": "column",
           "settings": {
+<<<<<<< HEAD
             "title": "PAGOS SEGUROS",
             "text": "<p>Realiza tu compra con total seguridad utilizando nuestros métodos de pago cifrados disponibles en el carrito y página de pedido.</p>",
+=======
+            "title": "SECURE PAYMENTS",
+            "text": "<p>Make your purchase with complete security using our encrypted payment methods available in the cart and order page.<\/p>",
+>>>>>>> origin/develop
             "link_label": "",
             "link": ""
           }
         }
       },
+<<<<<<< HEAD
       "block_order": ["column_Hcdhyb", "column_4PCWqA", "column_itwya4"],
+=======
+      "block_order": [
+        "column_Hcdhyb",
+        "column_4PCWqA",
+        "column_itwya4"
+      ],
+>>>>>>> origin/develop
       "custom_css": [
         ".multicolumn-card {box-shadow: 2px 4px 6px rgba(0, 0, 0, 0.1);}"
       ],
@@ -198,12 +286,30 @@
         "heading_gXxAyc": {
           "type": "heading",
           "settings": {
+<<<<<<< HEAD
             "heading": "¡NO TE PIERDAS NUESTRAS OFERTAS EXCLUSIVAS! REGISTRA TU CORREO ELECTRÓNICO Y RECIBE OFERTAS ESPECIALES.",
             "heading_size": "h2"
           }
         },
         "paragraph_bnqQDT": { "type": "paragraph", "settings": { "text": "" } },
         "email_form_y9D6bj": { "type": "email_form", "settings": {} }
+=======
+            "heading": "DON'T MISS OUR EXCLUSIVE OFFERS! REGISTER YOUR EMAIL AND RECEIVE SPECIAL OFFERS.",
+            "heading_size": "h2"
+          }
+        },
+        "paragraph_bnqQDT": {
+          "type": "paragraph",
+          "settings": {
+            "text": ""
+          }
+        },
+        "email_form_y9D6bj": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+>>>>>>> origin/develop
       },
       "block_order": [
         "heading_gXxAyc",
