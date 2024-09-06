@@ -81,9 +81,9 @@
         "collapsible_tab_bmny4F": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Control de Calidad",
+            "heading": "Quality control",
             "icon": "star",
-            "content": "<p><strong>Garantizamos la calidad al 100%<\/strong> de nuestros productos. Cada artículo se somete a exhaustivas pruebas y revisiones para garantizar su durabilidad y rendimiento óptimo.<\/p>",
+            "content": "<p><strong>We guarantee 100%<\/strong> quality of our products. Each item undergoes extensive testing and review to ensure durability and optimal performance.<\/p>",
             "page": ""
           }
         }
