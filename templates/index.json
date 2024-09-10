@@ -117,8 +117,8 @@
         "column_Hcdhyb": {
           "type": "column",
           "settings": {
-            "title": "ENVÍOS",
-            "text": "<p>Ofrecemos envíos garantizados con seguimiento para todas nuestras entregas.</p>",
+            "title": "SHIPPING",
+            "text": "<p>We offer guaranteed shipping with tracking for all our deliveries.</p>",
             "link_label": "",
             "link": ""
           }
@@ -126,8 +126,8 @@
         "column_4PCWqA": {
           "type": "column",
           "settings": {
-            "title": "GARANTÍAS",
-            "text": "<p>Todos los pedidos están respaldados por nuestra política de garantía de reembolso y devolución de 30 días.</p>",
+            "title": "GUARANTEES",
+            "text": "<p>All orders are backed by our 30-day return and refund guarantee policy.</p>",
             "link_label": "",
             "link": ""
           }
@@ -135,8 +135,8 @@
         "column_itwya4": {
           "type": "column",
           "settings": {
-            "title": "PAGOS SEGUROS",
-            "text": "<p>Realiza tu compra con total seguridad utilizando nuestros métodos de pago cifrados disponibles en el carrito y página de pedido.</p>",
+            "title": "SECURE PAYMENTS",
+            "text": "<p>Make your purchase with complete security using our encrypted payment methods available in the cart and order page.</p>",
             "link_label": "",
             "link": ""
           }
@@ -198,7 +198,7 @@
         "heading_gXxAyc": {
           "type": "heading",
           "settings": {
-            "heading": "¡NO TE PIERDAS NUESTRAS OFERTAS EXCLUSIVAS! REGISTRA TU CORREO ELECTRÓNICO Y RECIBE OFERTAS ESPECIALES.",
+            "heading": "¡DON'T MISS OUR EXCLUSIVE OFFERS! REGISTER YOUR EMAIL AND RECEIVE SPECIAL OFFERS.",
             "heading_size": "h2"
           }
         },
