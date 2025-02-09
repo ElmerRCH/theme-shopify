@@ -1,0 +1,37 @@
+.swiper-slide img {
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    max-height: 50vh; /* Limita la altura de las imágenes a la mitad de la pantalla */
+    object-position: top; /* Coloca la imagen en la parte superior */
+}
+
+.container-swiper{
+    height: 100vh;
+
+    background: linear-gradient(to bottom, #FF7F00, #FFA500, #FFA500, #FFFFFF);
+    position: relative;
+    overflow: hidden; /* Esto asegura que nada se salga del contenedor */
+}
+
+/* Flechas personalizadas */
+.swiper-button-prev, .swiper-button-next {
+    position: absolute;
+    top: 1%;
+    transform: translateY(-400%);
+    font-size: 30px; /* Tamaño de las flechas */
+    color: #fff; /* Color de las flechas */
+    padding: 10px;
+    z-index: 10;
+}
+
+.swiper-button-prev i{
+    color: white !important;
+    background: white !important;
+}
+
+/* Posición de la flecha izquierda */
+.swiper-button-prev {
+left: 10px;
+}
+

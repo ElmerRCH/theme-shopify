@@ -1,1 +1,29 @@
-{"parent":"product.json","context":{"market":"mercado-principal"},"sections":{"main":{"blocks":{"vendor":{"settings":{"text":"⏰ High Demand! - Last Units Available ⏰"}},"collapsible_tab_khV676":{"settings":{"heading":"Shipping","content":"<p>We are fully committed to tracking and managing your order so that you can have complete confidence in us once your purchase is made. If you have any questions or concerns, our customer service team is available to provide you with the assistance you need.<\/p>"}},"collapsible_tab_rRaTjd":{"settings":{"content":"<p>We extend our return period to 30 days from receipt of the product, providing you with greater flexibility and peace of mind in your shopping experience.<\/p>"}},"collapsible_tab_bmny4F":{"settings":{"content":"<p>We guarantee 100% quality in our products. Each item undergoes rigorous testing and inspections to ensure durability and optimal performance.<\/p>"}}}}}}
+{
+  "parent": "product.json",
+  "context": { "market": "mercado-principal" },
+  "sections": {
+    "main": {
+      "blocks": {
+        "vendor": {
+          "settings": { "text": "⏰ High Demand! - Last Units Available ⏰" }
+        },
+        "collapsible_tab_khV676": {
+          "settings": {
+            "heading": "Shipping",
+            "content": "<p>We are fully committed to tracking and managing your order so that you can have complete confidence in us once your purchase is made. If you have any questions or concerns, our customer service team is available to provide you with the assistance you need.</p>"
+          }
+        },
+        "collapsible_tab_rRaTjd": {
+          "settings": {
+            "content": "<p>We extend our return period to 30 days from receipt of the product, providing you with greater flexibility and peace of mind in your shopping experience.</p>"
+          }
+        },
+        "collapsible_tab_bmny4F": {
+          "settings": {
+            "content": "<p>We guarantee 100% quality in our products. Each item undergoes rigorous testing and inspections to ensure durability and optimal performance.</p>"
+          }
+        }
+      }
+    }
+  }
+}

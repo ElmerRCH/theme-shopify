@@ -1,5 +1,8 @@
 {
   "sections": {
+    "custom-slider": {
+      "type": "custom-slider",
+    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -218,12 +221,16 @@
       }
     }
   },
+  
   "order": [
-    "slideshow",
+    "custom-slider"
+  ]
+  /*  "slideshow",
     "featured_product_yftLcR",
     "image_with_text_kGVqd4",
     "multicolumn_h8ryYT",
     "featured_collection_yYbyjw",
     "newsletter_bzJ8Fh"
   ]
+  */
 }

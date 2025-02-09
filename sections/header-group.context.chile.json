@@ -1,1 +1,5 @@
-{"parent":"header-group.json","context":{"market":"chile"},"sections":{}}
+{
+  "parent": "header-group.json",
+  "context": { "market": "chile" },
+  "sections": {}
+}
