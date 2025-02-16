@@ -8,8 +8,7 @@
 
 .container-swiper{
     height: 100vh;
-
-    background: linear-gradient(to bottom, #FF7F00, #FFA500, #FFA500, #FFFFFF);
+    /* background: linear-gradient(to bottom, #FF7F00, #FFA500, #FFA500, #FFFFFF);*/
     position: relative;
     overflow: hidden; /* Esto asegura que nada se salga del contenedor */
 }

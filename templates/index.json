@@ -3,7 +3,7 @@
     "custom-slider": {
       "type": "custom-slider",
     },
-    "slideshow": {
+    /*"slideshow": {
       "type": "slideshow",
       "blocks": {
         "slide-0": {
@@ -220,10 +220,12 @@
         "padding_bottom": 52
       }
     }
+    */
   },
   
   "order": [
     "custom-slider"
+    
   ]
   /*  "slideshow",
     "featured_product_yftLcR",

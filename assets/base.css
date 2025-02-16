@@ -94,7 +94,7 @@ html.no-js .no-js-hidden {
 }
 
 .page-width {
-  max-width: var(--page-width);
+  /*max-width: var(--page-width);*/
   margin: 0 auto;
   padding: 0 1.5rem;
 }
@@ -253,6 +253,7 @@ body:has(.section-header .drawer-menu) .announcement-bar-section .page-width {
 
 ::selection {
   background-color: rgba(var(--color-foreground), 0.2);
+  
 }
 
 .text-body {
@@ -2382,11 +2383,14 @@ product-info .loading__spinner:not(.hidden) ~ *,
   .header--has-app {
     grid-template-columns: auto 1fr auto;
   }
+ 
 }
+
 
 @media screen and (min-width: 990px) {
   .header {
     grid-template-columns: 1fr auto 1fr;
+    background: #F06500;
   }
 
   .header--top-left,
@@ -2772,12 +2776,18 @@ details[open] > .header__submenu {
   grid-area: navigation;
   display: none;
 }
+.letter-color{
+  color:black !important;
+  font-family: Arial, Helvetica, sans-serif;
+}
 
 .header--top-center .header__inline-menu,
 .header--top-center .header__heading-link {
   margin-left: 0;
 }
-
+.color{
+  color:black
+}
 @media screen and (min-width: 990px) {
   .header__inline-menu {
     display: block;
@@ -3266,7 +3276,6 @@ details-disclosure > details {
 }
 
 /* Animations */
-
 @media (prefers-reduced-motion: no-preference) {
   .animate--ambient > img,
   .animate--ambient > svg {
@@ -3336,7 +3345,6 @@ details-disclosure > details {
 }
 
 /* Element Hovers: Vertical Lift, 3d Lift */
-
 @media (prefers-reduced-motion: no-preference) and (hover: hover) {
   .animate--hover-3d-lift .card-wrapper .card--card,
   .animate--hover-3d-lift .card-wrapper .card--standard .card__inner,
