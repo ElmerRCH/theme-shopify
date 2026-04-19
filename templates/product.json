@@ -1,12 +1,12 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -14,18 +14,15 @@
       "blocks": {
         "title": {
           "type": "title",
-          "settings": {
-          }
+          "settings": {}
         },
         "rating": {
           "type": "rating",
-          "settings": {
-          }
+          "settings": {}
         },
         "price": {
           "type": "price",
-          "settings": {
-          }
+          "settings": {}
         },
         "vendor": {
           "type": "text",
@@ -45,11 +42,11 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
-          "settings": {
-          }
+          "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_dynamic_checkout": false,
             "show_gift_card_recipient": false
@@ -57,15 +54,14 @@
         },
         "description": {
           "type": "description",
-          "settings": {
-          }
+          "settings": {}
         },
         "collapsible_tab_khV676": {
           "type": "collapsible_tab",
           "settings": {
             "heading": "Shipment",
             "icon": "truck",
-            "content": "<p>We are fully dedicated to monitoring and managing your order, so you can fully trust us once your purchase is made. Should any questions or concerns arise, our customer service team is available to provide any assistance you need.<\/p>",
+            "content": "<p>We are fully dedicated to monitoring and managing your order, so you can fully trust us once your purchase is made. Should any questions or concerns arise, our customer service team is available to provide any assistance you need.</p>",
             "page": ""
           }
         },
@@ -74,7 +70,7 @@
           "settings": {
             "heading": "Returns",
             "icon": "return",
-            "content": "<p>We extend our return period<strong> to 30 days from receipt of the product<\/strong>, giving you greater flexibility and peace of mind in your purchasing experience.<\/p>",
+            "content": "<p>We extend our return period<strong> to 30 days from receipt of the product</strong>, giving you greater flexibility and peace of mind in your purchasing experience.</p>",
             "page": ""
           }
         },
@@ -83,7 +79,7 @@
           "settings": {
             "heading": "Quality control",
             "icon": "star",
-            "content": "<p><strong>We guarantee 100%<\/strong> quality of our products. Each item undergoes extensive testing and review to ensure durability and optimal performance.<\/p>",
+            "content": "<p><strong>We guarantee 100%</strong> quality of our products. Each item undergoes extensive testing and review to ensure durability and optimal performance.</p>",
             "page": ""
           }
         }
