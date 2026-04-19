@@ -152,6 +152,7 @@
         },
         "column_4PCWqA": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "GUARANTEES",
             "text": "<p>All orders are backed by our 30-day return and refund guarantee policy.</p>",
